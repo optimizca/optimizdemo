@@ -1,0 +1,5 @@
+incidents,tagKey=incidents MTTR=54,Noise=0.93,low=200,Major=190,Minor=900,DevOps=4,Database=2,Network=1 1615584456
+change,tagKey=change Change_Number="CHG000654",Change_Date="2021-03-15 23:30:00",Change_Category="Database",Change_Description="Update MySQL Configurations to handle load" 1615584456
+logs,tagKey=logs Time="2021-03-15 10:30:00",message="at org apache.catalina.value.(Error Report Value.java:92)",agent_host="ip-172-198.78.21",state="ERROR" 1615584436
+logs,tagKey=logs Time="2021-03-15 10:28:00",message="2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)",agent_host="ip-172-191.78.21",state="ERROR" 1615584446
+logs,tagKey=logs Time="2021-03-15 10:28:00",message="HTTP Status 500 – Internal Server Error Type Exception Report",agent_host="ip-172-192.78.21",state="ERROR" 1615584456

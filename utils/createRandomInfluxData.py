@@ -1,11 +1,11 @@
 
-import pandas as pd
+#import pandas as pd
 import time
 import random
 #convert csv to line protocol;
 
 #convert sample data to line protocol (with nanosecond precision)
-df = pd.read_csv("inflyx_input.csv")
+#df = pd.read_csv("inflyx_input.csv")
 low=random.randint(15, 20)
 high=random.randint(50, 60)
 value=random.randint(29, 48)
